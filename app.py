@@ -1,1 +1,1 @@
-print("I'm learning Git merge conflicts")
+print("I'm learning Git merge conflicts.")
